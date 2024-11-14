@@ -1,2 +1,2 @@
 # My-project
-Currently unnamed python project
+Currently unnamed python project, involving pandas
