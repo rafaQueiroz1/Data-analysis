@@ -1,2 +1,2 @@
-# My-project
-Currently unnamed python project, involving pandas
+# Data analysis
+use of the pandas and matplotlib to analize data from a shopping database
